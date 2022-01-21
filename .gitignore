@@ -1,0 +1,4 @@
+__MACOSX
+.ipynb_checkpoints
+venv
+__pscache__
