@@ -1,13 +1,7 @@
-from itertools import count
-from math import dist
-from turtle import title, width
 import pandas as pd
-import numpy as np
 import streamlit as st
 import plotly.express as px
-import plotly.graph_objects as go
-import time
-import datetime
+
 
 from bikeshare import load_data, time_stats, station_stats, trip_duration_stats, user_stats
 
